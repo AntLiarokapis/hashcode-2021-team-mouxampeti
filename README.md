@@ -6,4 +6,3 @@ With:
 * [Giannis Drossas](https://github.com/ioannisdrossas)
 * [Antonis Liarokapis](https://github.com/AntLiarokapis)
 * [Giannis Maredis](https://github.com/G21M)
-* 
